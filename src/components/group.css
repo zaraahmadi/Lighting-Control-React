@@ -1,0 +1,31 @@
+.group-group {
+  width: 18px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group-vector {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}
+.group-root-class-name {
+  left: 0px;
+  bottom: 0px;
+  position: 0px;
+}
+@media(max-width: 991px) {
+  .group-group {
+    top: 0px;
+    left: 0px;
+    margin: auto;
+  }
+  .group-vector {
+    left: 0px;
+    margin: auto;
+  }
+}
