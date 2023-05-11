@@ -1,0 +1,304 @@
+.sign-in-page1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-in-page1-container1 {
+  top: 21px;
+  left: 403.08331298828125px;
+  width: 393.01666259765625px;
+  height: 599.6000061035156px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.sign-in-page1-frame7 {
+  gap: 10px;
+  top: 65px;
+  left: 100px;
+  width: 186px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-page1-rectangle1 {
+  width: 166px;
+  height: 65px;
+  align-self: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+}
+.sign-in-page1-menu1 {
+  top: 21px;
+  left: 21px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-in-page1-group {
+  top: 6px;
+  left: 3px;
+  width: 18px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-in-page1-vector {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+  align-self: center;
+}
+.sign-in-page1-group1 {
+  top: 91px;
+  left: 131.30845642089844px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-in-page1-vector1 {
+  top: 2.544342291203506px;
+  left: 3.845121161672722px;
+  width: 22px;
+  height: 27px;
+  position: absolute;
+  align-self: center;
+}
+.sign-in-page1-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 13px;
+  position: absolute;
+  align-self: center;
+}
+.sign-in-page1-group1 {
+  top: 83px;
+  left: 157px;
+  width: 84px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-in-page1-frame6 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.sign-in-page1-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-page1-navlink {
+  display: contents;
+}
+.sign-in-page1-frame1 {
+  top: 463px;
+  left: 0px;
+  width: 393px;
+  height: 66px;
+  position: absolute;
+  align-self: center;
+  text-decoration: none;
+}
+.sign-in-page1-text05 {
+  top: 189px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 190px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: center;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-page1-navlink1 {
+  display: contents;
+}
+.sign-in-page1-login-button-text {
+  gap: 10px;
+  top: 474px;
+  left: 154px;
+  width: 80px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  text-decoration: none;
+}
+.sign-in-page1-text07 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: center;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-page1-dont-have-an-account-sign-up {
+  top: 605px;
+  left: 87px;
+  color: rgba(0, 0, 0, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: center;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-page1-text09 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 300;
+}
+.sign-in-page1-text11 {
+  top: 431px;
+  left: 16px;
+  color: rgba(110, 211, 233, 0.8500000238418579);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: center;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-page1-input {
+  top: 286px;
+  left: 407px;
+  width: 377px;
+  height: 62px;
+  position: absolute;
+  align-self: stretch;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.sign-in-page1-input1 {
+  top: 373px;
+  left: 407px;
+  width: 377px;
+  height: 62px;
+  position: absolute;
+  align-self: stretch;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+@media(max-width: 991px) {
+  .sign-in-page1-container1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .sign-in-page1-frame7 {
+    top: 44px;
+    left: 100.01666259765625px;
+  }
+  .sign-in-page1-menu1 {
+    top: 0px;
+    left: 21.01666259765625px;
+  }
+  .sign-in-page1-group1 {
+    top: 62px;
+    left: 157.01666259765625px;
+  }
+  .sign-in-page1-frame1 {
+    left: 0.01666259765625px;
+    bottom: 91.60000610351562px;
+  }
+  .sign-in-page1-text05 {
+    top: 168px;
+    left: 16.01666259765625px;
+  }
+  .sign-in-page1-login-button-text {
+    left: 154.01666259765625px;
+    bottom: 102.60000610351562px;
+  }
+  .sign-in-page1-dont-have-an-account-sign-up {
+    left: 87.01666259765625px;
+    bottom: 0px;
+  }
+  .sign-in-page1-text11 {
+    left: 16.01666259765625px;
+    bottom: 175.20001220703125px;
+  }
+  .sign-in-page1-input {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .sign-in-page1-input1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}
+@media(max-width: 767px) {
+  .sign-in-page1-input {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .sign-in-page1-input1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}
