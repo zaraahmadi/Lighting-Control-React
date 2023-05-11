@@ -105,12 +105,16 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.support-page7-navlink {
+  display: contents;
+}
 .support-page7-rectangle15 {
   left: 0px;
   width: 373px;
   bottom: 227px;
   height: 60px;
   position: absolute;
+  text-decoration: none;
 }
 .support-page7-text05 {
   top: 259px;
@@ -157,6 +161,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.support-page7-navlink1 {
+  display: contents;
+}
 .support-page7-arrowforwardios1 {
   right: 21px;
   width: 24px;
@@ -167,6 +174,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .support-page7-group2 {
   top: 2.0999999046325684px;
@@ -235,6 +243,9 @@
   height: 11px;
   position: absolute;
 }
+.support-page7-navlink2 {
+  display: contents;
+}
 .support-page7-group4 {
   right: 52px;
   width: 46px;
@@ -244,6 +255,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 1;
+  text-decoration: none;
 }
 .support-page7-vector6 {
   top: 6px;

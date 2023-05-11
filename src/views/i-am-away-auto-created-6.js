@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -54,11 +55,16 @@ const IAmAwayAutoCreated6 = (props) => {
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/ff7e75d6-6775-4de5-aac2-888c71bdd689?org_if_sml=1423"
             className="-am-away-auto-created6-rectangle3"
           />
-          <img
-            alt="Rectangle42822"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/441727a8-afa1-4e6e-b980-2db065eb1ded?org_if_sml=1423"
-            className="-am-away-auto-created6-rectangle4"
-          />
+          <Link
+            to="/create-automation-5"
+            className="-am-away-auto-created6-navlink"
+          >
+            <img
+              alt="Rectangle42822"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/441727a8-afa1-4e6e-b980-2db065eb1ded?org_if_sml=1423"
+              className="-am-away-auto-created6-rectangle4"
+            />
+          </Link>
           <div className="-am-away-auto-created6-addtask1">
             <div className="-am-away-auto-created6-group02">
               <img
@@ -68,11 +74,16 @@ const IAmAwayAutoCreated6 = (props) => {
               />
             </div>
           </div>
-          <img
-            alt="Rectangle152824"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/2f24f0d0-db13-4a94-ac38-652d26c366fb?org_if_sml=1423"
-            className="-am-away-auto-created6-rectangle15"
-          />
+          <Link
+            to="/support-page-7"
+            className="-am-away-auto-created6-navlink1"
+          >
+            <img
+              alt="Rectangle152824"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/2f24f0d0-db13-4a94-ac38-652d26c366fb?org_if_sml=1423"
+              className="-am-away-auto-created6-rectangle15"
+            />
+          </Link>
           <div className="-am-away-auto-created6-help2">
             <div className="-am-away-auto-created6-group03">
               <img
@@ -152,9 +163,9 @@ const IAmAwayAutoCreated6 = (props) => {
           <span className="-am-away-auto-created6-text15">
             <span>What Are Automations?</span>
           </span>
-          <span className="-am-away-auto-created6-text17">
+          <Link to="/support-page-7" className="-am-away-auto-created6-text17">
             <span>Support</span>
-          </span>
+          </Link>
           <div className="-am-away-auto-created6-lock1">
             <div className="-am-away-auto-created6-group07">
               <img

@@ -113,12 +113,16 @@
   height: 126px;
   position: absolute;
 }
+.-am-away-auto-created6-navlink {
+  display: contents;
+}
 .-am-away-auto-created6-rectangle4 {
   top: 181px;
   right: 0px;
   width: 181px;
   height: 126px;
   position: absolute;
+  text-decoration: none;
 }
 .-am-away-auto-created6-addtask1 {
   top: 262px;
@@ -148,12 +152,16 @@
   height: 33px;
   position: absolute;
 }
+.-am-away-auto-created6-navlink1 {
+  display: contents;
+}
 .-am-away-auto-created6-rectangle15 {
   top: 324px;
   right: 0px;
   width: 181px;
   height: 126px;
   position: absolute;
+  text-decoration: none;
 }
 .-am-away-auto-created6-help2 {
   right: 69.566650390625px;
