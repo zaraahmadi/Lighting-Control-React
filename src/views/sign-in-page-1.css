@@ -241,6 +241,41 @@
   align-self: stretch;
   border-radius: var(--dl-radius-radius-radius8);
 }
+.sign-in-page1-social-bar {
+  top: 696px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: absolute;
+  justify-content: center;
+}
+.sign-in-page1-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.sign-in-page1-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.sign-in-page1-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.sign-in-page1-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.sign-in-page1-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
 @media(max-width: 991px) {
   .sign-in-page1-container1 {
     left: 0px;
@@ -300,5 +335,17 @@
     left: 0px;
     right: 0px;
     margin: auto;
+  }
+  .sign-in-page1-social-bar {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .sign-in-page1-social-bar {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
   }
 }
