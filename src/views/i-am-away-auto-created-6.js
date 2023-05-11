@@ -163,9 +163,9 @@ const IAmAwayAutoCreated6 = (props) => {
           <span className="-am-away-auto-created6-text15">
             <span>What Are Automations?</span>
           </span>
-          <Link to="/support-page-7" className="-am-away-auto-created6-text17">
+          <span className="-am-away-auto-created6-text17">
             <span>Support</span>
-          </Link>
+          </span>
           <div className="-am-away-auto-created6-lock1">
             <div className="-am-away-auto-created6-group07">
               <img

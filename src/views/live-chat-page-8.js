@@ -17,28 +17,28 @@ const LiveChatPage8 = (props) => {
       <div className="live-chat-page8-container1">
         <div className="live-chat-page8-frame1-live-chat">
           <img
-            alt="Rectangle11533"
             src="/playground_assets/rectangle11533-t79-200h.png"
+            alt="Rectangle11533"
             className="live-chat-page8-rectangle1"
           />
           <div className="live-chat-page8-menu1">
             <div className="live-chat-page8-group">
               <img
-                alt="Vector1534"
                 src="/playground_assets/vector1534-xesj.svg"
+                alt="Vector1534"
                 className="live-chat-page8-vector"
               />
             </div>
           </div>
           <div className="live-chat-page8-group1">
             <img
-              alt="Vector1534"
               src="/playground_assets/vector1534-bkzd.svg"
+              alt="Vector1534"
               className="live-chat-page8-vector01"
             />
             <img
-              alt="Vector1534"
               src="/playground_assets/vector1534-3v5s.svg"
+              alt="Vector1534"
               className="live-chat-page8-vector02"
             />
           </div>
@@ -72,13 +72,13 @@ const LiveChatPage8 = (props) => {
           <div className="live-chat-page8-letter1">
             <div className="live-chat-page8-group2">
               <img
-                alt="Vector1535"
                 src="/playground_assets/vector1535-asmu.svg"
+                alt="Vector1535"
                 className="live-chat-page8-vector03"
               />
               <img
-                alt="Vector1535"
                 src="/playground_assets/vector1535-a00e.svg"
+                alt="Vector1535"
                 className="live-chat-page8-vector04"
               />
             </div>
@@ -86,30 +86,30 @@ const LiveChatPage8 = (props) => {
           <div className="live-chat-page8-profile1">
             <div className="live-chat-page8-group3">
               <img
-                alt="Vector1554"
                 src="/playground_assets/vector1554-d7je.svg"
+                alt="Vector1554"
                 className="live-chat-page8-vector05"
               />
               <img
-                alt="Vector1555"
                 src="/playground_assets/vector1555-6unp.svg"
+                alt="Vector1555"
                 className="live-chat-page8-vector06"
               />
             </div>
           </div>
           <img
-            alt="Rectangle131546"
             src="/playground_assets/rectangle131546-tdmh.svg"
+            alt="Rectangle131546"
             className="live-chat-page8-rectangle13"
           />
           <img
-            alt="Rectangle151553"
             src="/playground_assets/rectangle151553-a9t4.svg"
+            alt="Rectangle151553"
             className="live-chat-page8-rectangle15"
           />
           <img
-            alt="Ellipse11556"
             src="/playground_assets/ellipse11556-4rwa.svg"
+            alt="Ellipse11556"
             className="live-chat-page8-ellipse1"
           />
           <span className="live-chat-page8-text20">
@@ -127,13 +127,13 @@ const LiveChatPage8 = (props) => {
           <div className="live-chat-page8-profile11">
             <div className="live-chat-page8-group4">
               <img
-                alt="Vector1551"
                 src="/playground_assets/vector1551-ajrr.svg"
+                alt="Vector1551"
                 className="live-chat-page8-vector07"
               />
               <img
-                alt="Vector1551"
                 src="/playground_assets/vector1551-2xd.svg"
+                alt="Vector1551"
                 className="live-chat-page8-vector08"
               />
             </div>
@@ -144,8 +144,8 @@ const LiveChatPage8 = (props) => {
             className="live-chat-page8-textinput input"
           />
           <img
-            alt="Rectangle141552"
             src="/playground_assets/rectangle141552-mj4.svg"
+            alt="Rectangle141552"
             className="live-chat-page8-rectangle14"
           />
           <span className="live-chat-page8-text28">
@@ -162,20 +162,20 @@ const LiveChatPage8 = (props) => {
             </span>
           </span>
           <img
-            alt="Ellipse11552"
             src="/playground_assets/ellipse11552-immg.svg"
+            alt="Ellipse11552"
             className="live-chat-page8-ellipse11"
           />
           <div className="live-chat-page8-sendmessage1">
             <div className="live-chat-page8-group5">
               <img
-                alt="Vector1553"
                 src="/playground_assets/vector1553-vgj7.svg"
+                alt="Vector1553"
                 className="live-chat-page8-vector09"
               />
               <img
-                alt="Vector1553"
                 src="/playground_assets/vector1553-vgj7.svg"
+                alt="Vector1553"
                 className="live-chat-page8-vector10"
               />
             </div>
