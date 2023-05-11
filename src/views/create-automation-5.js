@@ -124,7 +124,7 @@ const CreateAutomation5 = (props) => {
               </span>
               <div
                 data-thq="thq-dropdown-arrow"
-                className="create-automation5-dropdown-arrow01"
+                className="create-automation5-dropdown-arrow1"
               >
                 <svg
                   viewBox="0 0 1024 1024"
@@ -236,7 +236,7 @@ const CreateAutomation5 = (props) => {
               </span>
               <div
                 data-thq="thq-dropdown-arrow"
-                className="create-automation5-dropdown-arrow02"
+                className="create-automation5-dropdown-arrow2"
               >
                 <svg
                   viewBox="0 0 1024 1024"
@@ -320,7 +320,7 @@ const CreateAutomation5 = (props) => {
           <span className="create-automation5-text28">Select lights</span>
           <div
             data-thq="thq-dropdown-arrow"
-            className="create-automation5-dropdown-arrow03"
+            className="create-automation5-dropdown-arrow3"
           >
             <svg viewBox="0 0 1024 1024" className="create-automation5-icon06">
               <path d="M426 726v-428l214 214z"></path>
@@ -342,7 +342,7 @@ const CreateAutomation5 = (props) => {
               <span className="create-automation5-text29">Ground Floor</span>
               <div
                 data-thq="thq-dropdown-arrow"
-                className="create-automation5-dropdown-arrow04"
+                className="create-automation5-dropdown-arrow4"
               >
                 <svg
                   viewBox="0 0 1024 1024"
@@ -384,43 +384,23 @@ const CreateAutomation5 = (props) => {
                   <li
                     data-thq="thq-dropdown"
                     className="create-automation5-dropdown13 list-item"
-                  >
-                    <div
-                      data-thq="thq-dropdown-toggle"
-                      className="create-automation5-dropdown-toggle13"
-                    >
-                      <span className="create-automation5-text32">
-                        Sub-menu Item
-                      </span>
-                    </div>
-                  </li>
+                  ></li>
                   <li
                     data-thq="thq-dropdown"
                     className="create-automation5-dropdown14 list-item"
-                  >
-                    <div
-                      data-thq="thq-dropdown-toggle"
-                      className="create-automation5-dropdown-toggle14"
-                    >
-                      <span className="create-automation5-text33">
-                        Sub-menu Item
-                      </span>
-                    </div>
-                  </li>
-                  <li
-                    data-thq="thq-dropdown"
-                    className="create-automation5-dropdown15 list-item"
-                  >
-                    <div
-                      data-thq="thq-dropdown-toggle"
-                      className="create-automation5-dropdown-toggle15"
-                    >
-                      <span className="create-automation5-text34">
-                        Sub-menu Item
-                      </span>
-                    </div>
-                  </li>
+                  ></li>
                 </ul>
+              </li>
+              <li
+                data-thq="thq-dropdown"
+                className="create-automation5-dropdown15 list-item"
+              >
+                <div
+                  data-thq="thq-dropdown-toggle"
+                  className="create-automation5-dropdown-toggle13"
+                >
+                  <span className="create-automation5-text32">Bathroom</span>
+                </div>
               </li>
               <li
                 data-thq="thq-dropdown"
@@ -428,20 +408,9 @@ const CreateAutomation5 = (props) => {
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle16"
+                  className="create-automation5-dropdown-toggle14"
                 >
-                  <span className="create-automation5-text35">Bathroom</span>
-                </div>
-              </li>
-              <li
-                data-thq="thq-dropdown"
-                className="create-automation5-dropdown17 list-item"
-              >
-                <div
-                  data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle17"
-                >
-                  <span className="create-automation5-text36">Corridor</span>
+                  <span className="create-automation5-text33">Corridor</span>
                 </div>
               </li>
             </ul>
@@ -452,12 +421,12 @@ const CreateAutomation5 = (props) => {
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle18"
+              className="create-automation5-dropdown-toggle15"
             >
-              <span className="create-automation5-text37">First Floor</span>
+              <span className="create-automation5-text34">First Floor</span>
               <div
                 data-thq="thq-dropdown-arrow"
-                className="create-automation5-dropdown-arrow05"
+                className="create-automation5-dropdown-arrow5"
               >
                 <svg
                   viewBox="0 0 1024 1024"
@@ -473,13 +442,13 @@ const CreateAutomation5 = (props) => {
             >
               <li
                 data-thq="thq-dropdown"
-                className="create-automation5-dropdown18 list-item"
+                className="create-automation5-dropdown17 list-item"
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle19"
+                  className="create-automation5-dropdown-toggle16"
                 >
-                  <span className="create-automation5-text38">
+                  <span className="create-automation5-text35">
                     <span>Master Bedroom</span>
                     <br></br>
                     <br></br>
@@ -488,13 +457,24 @@ const CreateAutomation5 = (props) => {
               </li>
               <li
                 data-thq="thq-dropdown"
+                className="create-automation5-dropdown18 list-item"
+              >
+                <div
+                  data-thq="thq-dropdown-toggle"
+                  className="create-automation5-dropdown-toggle17"
+                >
+                  <span className="create-automation5-text39">Bedroom 2</span>
+                </div>
+              </li>
+              <li
+                data-thq="thq-dropdown"
                 className="create-automation5-dropdown19 list-item"
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle20"
+                  className="create-automation5-dropdown-toggle18"
                 >
-                  <span className="create-automation5-text42">Bedroom 2</span>
+                  <span className="create-automation5-text40">Bathroom</span>
                 </div>
               </li>
               <li
@@ -503,9 +483,9 @@ const CreateAutomation5 = (props) => {
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle21"
+                  className="create-automation5-dropdown-toggle19"
                 >
-                  <span className="create-automation5-text43">Bathroom</span>
+                  <span className="create-automation5-text41">Corriodor</span>
                 </div>
               </li>
               <li
@@ -514,20 +494,9 @@ const CreateAutomation5 = (props) => {
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle22"
+                  className="create-automation5-dropdown-toggle20"
                 >
-                  <span className="create-automation5-text44">Corriodor</span>
-                </div>
-              </li>
-              <li
-                data-thq="thq-dropdown"
-                className="create-automation5-dropdown22 list-item"
-              >
-                <div
-                  data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle23"
-                >
-                  <span className="create-automation5-text45">Office</span>
+                  <span className="create-automation5-text42">Office</span>
                 </div>
               </li>
             </ul>
@@ -538,12 +507,12 @@ const CreateAutomation5 = (props) => {
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle24"
+              className="create-automation5-dropdown-toggle21"
             >
-              <span className="create-automation5-text46">Garden</span>
+              <span className="create-automation5-text43">Garden</span>
               <div
                 data-thq="thq-dropdown-arrow"
-                className="create-automation5-dropdown-arrow06"
+                className="create-automation5-dropdown-arrow6"
               >
                 <svg
                   viewBox="0 0 1024 1024"
@@ -559,14 +528,27 @@ const CreateAutomation5 = (props) => {
             >
               <li
                 data-thq="thq-dropdown"
+                className="create-automation5-dropdown22 list-item"
+              >
+                <div
+                  data-thq="thq-dropdown-toggle"
+                  className="create-automation5-dropdown-toggle22"
+                >
+                  <span className="create-automation5-text44">
+                    Patio Lights
+                  </span>
+                </div>
+              </li>
+              <li
+                data-thq="thq-dropdown"
                 className="create-automation5-dropdown23 list-item"
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle25"
+                  className="create-automation5-dropdown-toggle23"
                 >
-                  <span className="create-automation5-text47">
-                    Patio Lights
+                  <span className="create-automation5-text45">
+                    Pathway Lights
                   </span>
                 </div>
               </li>
@@ -576,52 +558,28 @@ const CreateAutomation5 = (props) => {
               >
                 <div
                   data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle26"
+                  className="create-automation5-dropdown-toggle24"
                 >
-                  <span className="create-automation5-text48">
-                    Pathway Lights
-                  </span>
-                </div>
-              </li>
-              <li
-                data-thq="thq-dropdown"
-                className="create-automation5-dropdown25 list-item"
-              >
-                <div
-                  data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle27"
-                >
-                  <span className="create-automation5-text49">
+                  <span className="create-automation5-text46">
                     Garden Lights
                   </span>
                 </div>
               </li>
               <li
                 data-thq="thq-dropdown"
-                className="create-automation5-dropdown26 list-item"
+                className="create-automation5-dropdown25 list-item"
               ></li>
             </ul>
           </li>
           <li
             data-thq="thq-dropdown"
-            className="create-automation5-dropdown27 list-item"
+            className="create-automation5-dropdown26 list-item"
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle28"
+              className="create-automation5-dropdown-toggle25"
             >
-              <span className="create-automation5-text50">All lights</span>
-              <div
-                data-thq="thq-dropdown-arrow"
-                className="create-automation5-dropdown-arrow07"
-              >
-                <svg
-                  viewBox="0 0 1024 1024"
-                  className="create-automation5-icon14"
-                >
-                  <path d="M426 726v-428l214 214z"></path>
-                </svg>
-              </div>
+              <span className="create-automation5-text47">All lights</span>
             </div>
             <ul
               data-thq="thq-dropdown-list"
@@ -629,38 +587,19 @@ const CreateAutomation5 = (props) => {
             >
               <li
                 data-thq="thq-dropdown"
+                className="create-automation5-dropdown27 list-item"
+              ></li>
+              <li
+                data-thq="thq-dropdown"
                 className="create-automation5-dropdown28 list-item"
-              >
-                <div
-                  data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle29"
-                >
-                  <span className="create-automation5-text51">
-                    Select All Lights
-                  </span>
-                </div>
-              </li>
+              ></li>
               <li
                 data-thq="thq-dropdown"
                 className="create-automation5-dropdown29 list-item"
-              >
-                <div
-                  data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle30"
-                ></div>
-              </li>
+              ></li>
               <li
                 data-thq="thq-dropdown"
                 className="create-automation5-dropdown30 list-item"
-              >
-                <div
-                  data-thq="thq-dropdown-toggle"
-                  className="create-automation5-dropdown-toggle31"
-                ></div>
-              </li>
-              <li
-                data-thq="thq-dropdown"
-                className="create-automation5-dropdown31 list-item"
               ></li>
             </ul>
           </li>
@@ -672,14 +611,14 @@ const CreateAutomation5 = (props) => {
       >
         <div
           data-thq="thq-dropdown-toggle"
-          className="create-automation5-dropdown-toggle32"
+          className="create-automation5-dropdown-toggle26"
         >
-          <span className="create-automation5-text52">Choose an action</span>
+          <span className="create-automation5-text48">Choose an action</span>
           <div
             data-thq="thq-dropdown-arrow"
-            className="create-automation5-dropdown-arrow08"
+            className="create-automation5-dropdown-arrow7"
           >
-            <svg viewBox="0 0 1024 1024" className="create-automation5-icon16">
+            <svg viewBox="0 0 1024 1024" className="create-automation5-icon14">
               <path d="M426 726v-428l214 214z"></path>
             </svg>
           </div>
@@ -690,13 +629,24 @@ const CreateAutomation5 = (props) => {
         >
           <li
             data-thq="thq-dropdown"
+            className="create-automation5-dropdown31 list-item"
+          >
+            <div
+              data-thq="thq-dropdown-toggle"
+              className="create-automation5-dropdown-toggle27"
+            >
+              <span className="create-automation5-text49">Turn on lights</span>
+            </div>
+          </li>
+          <li
+            data-thq="thq-dropdown"
             className="create-automation5-dropdown32 list-item"
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle33"
+              className="create-automation5-dropdown-toggle28"
             >
-              <span className="create-automation5-text53">Turn on lights</span>
+              <span className="create-automation5-text50">Turn off lights</span>
             </div>
           </li>
           <li
@@ -705,9 +655,9 @@ const CreateAutomation5 = (props) => {
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle34"
+              className="create-automation5-dropdown-toggle29"
             >
-              <span className="create-automation5-text54">Turn off lights</span>
+              <span className="create-automation5-text51">Schedule lights</span>
             </div>
           </li>
           <li
@@ -716,20 +666,9 @@ const CreateAutomation5 = (props) => {
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle35"
+              className="create-automation5-dropdown-toggle30"
             >
-              <span className="create-automation5-text55">Schedule lights</span>
-            </div>
-          </li>
-          <li
-            data-thq="thq-dropdown"
-            className="create-automation5-dropdown35 list-item"
-          >
-            <div
-              data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle36"
-            >
-              <span className="create-automation5-text56">
+              <span className="create-automation5-text52">
                 Set a timer for lights
               </span>
             </div>
@@ -738,22 +677,18 @@ const CreateAutomation5 = (props) => {
       </div>
       <div
         data-thq="thq-dropdown"
-        className="create-automation5-thq-dropdown list-item"
+        className="create-automation5-trigger list-item"
       >
         <div
           data-thq="thq-dropdown-toggle"
-          className="create-automation5-dropdown-toggle-trigger"
+          className="create-automation5-dropdown-toggle31"
         >
-          <span className="create-automation5-text57">
-            <span>Trigger</span>
-            <br></br>
-            <br></br>
-          </span>
+          <span className="create-automation5-text53">Trigger</span>
           <div
             data-thq="thq-dropdown-arrow"
-            className="create-automation5-dropdown-arrow09"
+            className="create-automation5-dropdown-arrow8"
           >
-            <svg viewBox="0 0 1024 1024" className="create-automation5-icon18">
+            <svg viewBox="0 0 1024 1024" className="create-automation5-icon16">
               <path d="M426 726v-428l214 214z"></path>
             </svg>
           </div>
@@ -764,14 +699,27 @@ const CreateAutomation5 = (props) => {
         >
           <li
             data-thq="thq-dropdown"
+            className="create-automation5-dropdown35 list-item"
+          >
+            <div
+              data-thq="thq-dropdown-toggle"
+              className="create-automation5-dropdown-toggle32"
+            >
+              <span className="create-automation5-text54">
+                When door is locked
+              </span>
+            </div>
+          </li>
+          <li
+            data-thq="thq-dropdown"
             className="create-automation5-dropdown36 list-item"
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle-front-door-is-locked"
+              className="create-automation5-dropdown-toggle33"
             >
-              <span className="create-automation5-text61">
-                When front door is locked
+              <span className="create-automation5-text55">
+                When door is opened
               </span>
             </div>
           </li>
@@ -781,26 +729,22 @@ const CreateAutomation5 = (props) => {
           >
             <div
               data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle37"
+              className="create-automation5-dropdown-toggle34"
             >
-              <span className="create-automation5-text62">
-                When front door is open
+              <span className="create-automation5-text56">
+                Motion detection
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
               </span>
             </div>
           </li>
           <li
             data-thq="thq-dropdown"
             className="create-automation5-dropdown38 list-item"
-          >
-            <div
-              data-thq="thq-dropdown-toggle"
-              className="create-automation5-dropdown-toggle38"
-            >
-              <span className="create-automation5-text63">
-                Motion detection
-              </span>
-            </div>
-          </li>
+          ></li>
         </ul>
       </div>
     </div>
