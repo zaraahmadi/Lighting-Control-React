@@ -15,28 +15,28 @@ const SupportPage7 = (props) => {
       <div className="support-page7-frame1-support-team">
         <div className="support-page7-container1">
           <img
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6d9abbf1-1667-46a7-80a9-4d87803d720d?org_if_sml=13080"
             alt="Rectangle11523"
+            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6d9abbf1-1667-46a7-80a9-4d87803d720d?org_if_sml=13080"
             className="support-page7-rectangle1"
           />
           <div className="support-page7-menu1">
             <div className="support-page7-group">
               <img
-                src="/playground_assets/vector1526-hd.svg"
                 alt="Vector1526"
+                src="/playground_assets/vector1526-hd.svg"
                 className="support-page7-vector"
               />
             </div>
           </div>
           <div className="support-page7-group1">
             <img
-              src="/playground_assets/vector1528-thzj.svg"
               alt="Vector1528"
+              src="/playground_assets/vector1528-thzj.svg"
               className="support-page7-vector1"
             />
             <img
-              src="/playground_assets/vector1529-zcgf.svg"
               alt="Vector1529"
+              src="/playground_assets/vector1529-zcgf.svg"
               className="support-page7-vector2"
             />
           </div>
@@ -49,8 +49,8 @@ const SupportPage7 = (props) => {
           </span>
           <Link to="/live-chat-page-8" className="support-page7-navlink">
             <img
-              src="/playground_assets/rectangle151521-0o6.svg"
               alt="Rectangle151521"
+              src="/playground_assets/rectangle151521-0o6.svg"
               className="support-page7-rectangle15"
             />
           </Link>
@@ -66,8 +66,8 @@ const SupportPage7 = (props) => {
           <div className="support-page7-arrowforwardios1">
             <div className="support-page7-group2">
               <img
-                src="/playground_assets/vector1532-owy.svg"
                 alt="Vector1532"
+                src="/playground_assets/vector1532-owy.svg"
                 className="support-page7-vector3"
               />
             </div>
@@ -82,26 +82,26 @@ const SupportPage7 = (props) => {
           <div className="support-page7-letter1">
             <div className="support-page7-group3">
               <img
-                src="/playground_assets/vector1533-y2c.svg"
                 alt="Vector1533"
+                src="/playground_assets/vector1533-y2c.svg"
                 className="support-page7-vector4"
               />
               <img
-                src="/playground_assets/vector1533-rs6k.svg"
                 alt="Vector1533"
+                src="/playground_assets/vector1533-rs6k.svg"
                 className="support-page7-vector5"
               />
             </div>
           </div>
           <div className="support-page7-group4">
             <img
-              src="/playground_assets/vector1533-lc2.svg"
               alt="Vector1533"
+              src="/playground_assets/vector1533-lc2.svg"
               className="support-page7-vector6"
             />
             <img
-              src="/playground_assets/vector1533-2gpl.svg"
               alt="Vector1533"
+              src="/playground_assets/vector1533-2gpl.svg"
               className="support-page7-vector7"
             />
           </div>

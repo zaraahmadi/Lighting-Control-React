@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
-import Group from '../components/group'
+import Menu1 from '../components/menu1'
 import './sign-up-page-2.css'
 
 const SignUpPage2 = (props) => {
@@ -21,11 +21,7 @@ const SignUpPage2 = (props) => {
             className="sign-up-page2-rectangle1"
           />
         </Link>
-        <div className="sign-up-page2-menu1">
-          <div className="sign-up-page2-container1">
-            <Group rootClassName="group-root-class-name"></Group>
-          </div>
-        </div>
+        <Menu1 rootClassName="menu1-root-class-name"></Menu1>
         <Link to="/main-page-3" className="sign-up-page2-navlink1">
           <div className="sign-up-page2-group">
             <img

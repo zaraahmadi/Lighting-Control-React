@@ -14,6 +14,7 @@
   overflow: hidden;
   position: relative;
   align-items: flex-start;
+  justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
 .sign-up-page2-navlink {
@@ -30,26 +31,6 @@
   border-width: 1px;
   border-radius: 15px;
   text-decoration: none;
-}
-.sign-up-page2-menu1 {
-  top: 90px;
-  left: 424.1000061035156px;
-  width: 24px;
-  height: 24px;
-  display: flex;
-  overflow: hidden;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.sign-up-page2-container1 {
-  top: 6px;
-  left: 0px;
-  width: 18px;
-  height: 12px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
 }
 .sign-up-page2-navlink1 {
   display: contents;
@@ -239,11 +220,6 @@
 }
 @media(max-width: 991px) {
   .sign-up-page2-rectangle1 {
-    left: 0px;
-    right: 0px;
-    margin: auto;
-  }
-  .sign-up-page2-menu1 {
     left: 0px;
     right: 0px;
     margin: auto;
