@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import './style.css'
-import SignUpPage2 from './views/sign-up-page-2'
 import MainPage3 from './views/main-page-3'
+import Test from './views/test'
 import IAmAwayAutoCreated6 from './views/i-am-away-auto-created-6'
 import CreateAutomation5 from './views/create-automation-5'
 import AutomationPage4 from './views/automation-page-4'
@@ -16,8 +16,8 @@ const App = () => {
   return (
     <Router>
       <div>
-        <Route component={SignUpPage2} exact path="/sign-up-page-2" />
         <Route component={MainPage3} exact path="/main-page-3" />
+        <Route component={Test} exact path="/test" />
         <Route
           component={IAmAwayAutoCreated6}
           exact

@@ -17,8 +17,9 @@
   align-items: flex-start;
 }
 .menu1-root-class-name {
-  top: 149px;
-  left: 410px;
+  left: -193px;
+  bottom: -6px;
+  margin: auto;
   position: absolute;
 }
 @media(max-width: 991px) {
@@ -28,7 +29,20 @@
     margin: auto;
   }
   .menu1-root-class-name {
-    top: 145px;
-    left: 294px;
+    top: 151px;
+    left: 246px;
+  }
+}
+@media(max-width: 767px) {
+  .menu1-root-class-name {
+    top: 0px;
+    left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .menu1-root-class-name {
+    top: 0px;
+    left: 0px;
+    position: absolute;
   }
 }
