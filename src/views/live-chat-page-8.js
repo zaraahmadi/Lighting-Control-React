@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -16,11 +17,13 @@ const LiveChatPage8 = (props) => {
       </Helmet>
       <div className="live-chat-page8-container1">
         <div className="live-chat-page8-frame1-live-chat">
-          <img
-            alt="Rectangle11533"
-            src="/playground_assets/rectangle11533-t79-200h.png"
-            className="live-chat-page8-rectangle1"
-          />
+          <Link to="/main-page-3" className="live-chat-page8-navlink">
+            <img
+              alt="Rectangle11533"
+              src="/playground_assets/rectangle11533-t79-200h.png"
+              className="live-chat-page8-rectangle1"
+            />
+          </Link>
           <div className="live-chat-page8-menu1">
             <div className="live-chat-page8-group">
               <img
@@ -30,25 +33,27 @@ const LiveChatPage8 = (props) => {
               />
             </div>
           </div>
-          <div className="live-chat-page8-group1">
-            <img
-              alt="Vector1534"
-              src="/playground_assets/vector1534-bkzd.svg"
-              className="live-chat-page8-vector01"
-            />
-            <img
-              alt="Vector1534"
-              src="/playground_assets/vector1534-3v5s.svg"
-              className="live-chat-page8-vector02"
-            />
-          </div>
-          <span className="live-chat-page8-text">
+          <Link to="/main-page-3" className="live-chat-page8-navlink1">
+            <div className="live-chat-page8-group1">
+              <img
+                alt="Vector1534"
+                src="/playground_assets/vector1534-bkzd.svg"
+                className="live-chat-page8-vector01"
+              />
+              <img
+                alt="Vector1534"
+                src="/playground_assets/vector1534-3v5s.svg"
+                className="live-chat-page8-vector02"
+              />
+            </div>
+          </Link>
+          <Link to="/main-page-3" className="live-chat-page8-text">
             <span>
               <span>My Home</span>
               <br></br>
               <span>Light Saver</span>
             </span>
-          </span>
+          </Link>
           <span className="live-chat-page8-text05">
             <span className="live-chat-page8-text06">
               <span>Today</span>

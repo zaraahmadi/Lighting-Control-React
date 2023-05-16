@@ -166,14 +166,16 @@
   left: 154px;
   width: 80px;
   display: flex;
-  padding: 10px;
   position: absolute;
   align-self: center;
   align-items: flex-start;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
   text-decoration: none;
 }
 .sign-in-page1-text07 {
-  color: rgba(0, 0, 0, 1);
+  color: rgb(0, 0, 0);
   height: auto;
   font-size: 20px;
   align-self: center;
@@ -202,11 +204,11 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.sign-in-page1-text09 {
+.sign-in-page1-text08 {
   color: rgba(0, 0, 0, 1);
   font-weight: 300;
 }
-.sign-in-page1-text11 {
+.sign-in-page1-text10 {
   top: 431px;
   left: 16px;
   color: rgba(110, 211, 233, 0.8500000238418579);
@@ -310,7 +312,7 @@
     left: 87.01666259765625px;
     bottom: 0px;
   }
-  .sign-in-page1-text11 {
+  .sign-in-page1-text10 {
     left: 16.01666259765625px;
     bottom: 175.20001220703125px;
   }

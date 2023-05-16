@@ -63,13 +63,14 @@ const SignInPage1 = (props) => {
         </span>
         <Link to="/main-page-3" className="sign-in-page1-navlink1">
           <div className="sign-in-page1-login-button-text">
-            <span className="sign-in-page1-text07">
-              <span>Log In</span>
-            </span>
+            <span className="sign-in-page1-text07">Sign in</span>
           </div>
         </Link>
-        <span className="sign-in-page1-dont-have-an-account-sign-up">
-          <span className="sign-in-page1-text09">
+        <Link
+          to="/sign-up-page-2"
+          className="sign-in-page1-dont-have-an-account-sign-up"
+        >
+          <span className="sign-in-page1-text08">
             Don’t have an account?
             <span
               dangerouslySetInnerHTML={{
@@ -78,8 +79,8 @@ const SignInPage1 = (props) => {
             />
           </span>
           <span>Sign Up</span>
-        </span>
-        <span className="sign-in-page1-text11">
+        </Link>
+        <span className="sign-in-page1-text10">
           <span>Forgot Password?</span>
         </span>
         <input

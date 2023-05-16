@@ -3,82 +3,89 @@ import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
-import Menu1 from '../components/menu1'
 import './sign-up-page-2.css'
 
 const SignUpPage2 = (props) => {
   return (
     <div className="sign-up-page2-container">
       <Helmet>
-        <title>Sign-up-page-2 - exported project</title>
-        <meta property="og:title" content="Sign-up-page-2 - exported project" />
+        <title>Sign-up-Page-2 - exported project</title>
+        <meta property="og:title" content="Sign-up-Page-2 - exported project" />
       </Helmet>
-      <div className="sign-up-page2-frame-sign-up-page">
-        <Link to="/main-page-3" className="sign-up-page2-navlink">
+      <div className="sign-up-page2-container1">
+        <div className="sign-up-page2-frame7">
           <img
-            alt="Rectangle13652"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/5cadc282-ecd1-447b-87c1-fc002af74a42?org_if_sml=13080"
+            alt="Rectangle183"
+            src="/playground_assets/rectangle183-1zk-200h.png"
             className="sign-up-page2-rectangle1"
           />
-        </Link>
-        <Menu1 rootClassName="menu1-root-class-name"></Menu1>
-        <Link to="/main-page-3" className="sign-up-page2-navlink1">
+        </div>
+        <div className="sign-up-page2-menu1">
           <div className="sign-up-page2-group">
             <img
-              alt="Vector3652"
-              src="/playground_assets/vector3652-a5q.svg"
+              alt="Vector740"
+              src="/playground_assets/vector740-b6ss.svg"
               className="sign-up-page2-vector"
             />
-            <img
-              alt="Vector3652"
-              src="/playground_assets/vector3652-dc12.svg"
-              className="sign-up-page2-vector1"
-            />
           </div>
-        </Link>
-        <Link to="/main-page-3" className="sign-up-page2-my-home-ligh-save">
-          <span>
-            <span>My Home</span>
-            <br></br>
-            <span>Light Saver</span>
-          </span>
-        </Link>
-        <Link to="/main-page-3" className="sign-up-page2-navlink2">
+        </div>
+        <div>
           <img
-            alt="Rectangle153653"
-            src="/playground_assets/rectangle153653-miva.svg"
-            className="sign-up-page2-rectangle15"
+            alt="Vector753"
+            src="/playground_assets/vector753-1hwo.svg"
+            className="sign-up-page2-vector1"
           />
+          <img
+            alt="Vector754"
+            src="/playground_assets/vector754-cwo.svg"
+            className="sign-up-page2-vector2"
+          />
+        </div>
+        <div className="sign-up-page2-group1 sign-up-page2-group1">
+          <div className="sign-up-page2-frame6">
+            <span className="sign-up-page2-text">
+              <span>
+                <span>My Home</span>
+                <br></br>
+                <span>Light Saver</span>
+              </span>
+            </span>
+          </div>
+        </div>
+        <div className="sign-up-page2-container2">
+          <Link to="/main-page-3" className="sign-up-page2-navlink">
+            <img
+              alt="Frame11052"
+              src="/playground_assets/frame11052-lrsp.svg"
+              className="sign-up-page2-frame1"
+            />
+          </Link>
+          <Link to="/main-page-3" className="sign-up-page2-navlink1">
+            <div className="sign-up-page2-login-button-text">
+              <span className="sign-up-page2-text5">Sign up</span>
+            </div>
+          </Link>
+        </div>
+        <span className="sign-up-page2-text6">Sign Up</span>
+        <input
+          type="email"
+          placeholder="Email"
+          className="sign-up-page2-input input"
+        />
+        <input
+          type="password"
+          placeholder="Password"
+          className="sign-up-page2-input1 input"
+        />
+        <input
+          type="password"
+          placeholder="Confirm Password"
+          className="sign-up-page2-input2 input"
+        />
+        <Link to="/" className="sign-up-page2-navlink2">
+          Already have an account?Sign in
         </Link>
-        <span className="sign-up-page2-sign-up-on-top">
-          <span>Sign Up</span>
-        </span>
-        <Link to="/main-page-3" className="sign-up-page2-sign-up-click">
-          <span>Sign Up</span>
-        </Link>
-        <Link to="/" className="sign-up-page2-already-have-an-account-sign-in">
-          <span className="sign-up-page2-text06">Already have an account?</span>
-          <span> Sign In</span>
-        </Link>
-        <span className="sign-up-page2-text08">
-          <span>By signing up , you agree to our privacy policy</span>
-        </span>
       </div>
-      <input
-        type="email"
-        placeholder="Email"
-        className="sign-up-page2-input input"
-      />
-      <input
-        type="password"
-        placeholder="Password"
-        className="sign-up-page2-input1 input"
-      />
-      <input
-        type="password"
-        placeholder="Confirm Password"
-        className="sign-up-page2-input2 input"
-      />
       <div className="sign-up-page2-social-bar">
         <svg
           viewBox="0 0 950.8571428571428 1024"
