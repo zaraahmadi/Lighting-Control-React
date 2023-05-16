@@ -405,6 +405,9 @@
   height: 33px;
   position: absolute;
 }
+.live-chat-page8-navlink2 {
+  display: contents;
+}
 .live-chat-page8-sendmessage1 {
   top: 624px;
   left: 310px;
@@ -415,6 +418,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .live-chat-page8-group5 {
   top: 0.0003634959284681827px;

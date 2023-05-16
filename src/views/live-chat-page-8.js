@@ -171,20 +171,22 @@ const LiveChatPage8 = (props) => {
             src="/playground_assets/ellipse11552-immg.svg"
             className="live-chat-page8-ellipse11"
           />
-          <div className="live-chat-page8-sendmessage1">
-            <div className="live-chat-page8-group5">
-              <img
-                alt="Vector1553"
-                src="/playground_assets/vector1553-vgj7.svg"
-                className="live-chat-page8-vector09"
-              />
-              <img
-                alt="Vector1553"
-                src="/playground_assets/vector1553-vgj7.svg"
-                className="live-chat-page8-vector10"
-              />
+          <Link to="/live-chat-page-8" className="live-chat-page8-navlink2">
+            <div className="live-chat-page8-sendmessage1">
+              <div className="live-chat-page8-group5">
+                <img
+                  alt="Vector1553"
+                  src="/playground_assets/vector1553-vgj7.svg"
+                  className="live-chat-page8-vector09"
+                />
+                <img
+                  alt="Vector1553"
+                  src="/playground_assets/vector1553-vgj7.svg"
+                  className="live-chat-page8-vector10"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <span className="live-chat-page8-text32">
             <span>
               <span>

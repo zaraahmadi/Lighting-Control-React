@@ -124,6 +124,9 @@
   position: absolute;
   text-decoration: none;
 }
+.-am-away-auto-created6-navlink1 {
+  display: contents;
+}
 .-am-away-auto-created6-addtask1 {
   top: 262px;
   right: 72px;
@@ -134,6 +137,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .-am-away-auto-created6-group02 {
   top: 3.3333332538604736px;
@@ -152,7 +156,7 @@
   height: 33px;
   position: absolute;
 }
-.-am-away-auto-created6-navlink1 {
+.-am-away-auto-created6-navlink2 {
   display: contents;
 }
 .-am-away-auto-created6-rectangle15 {

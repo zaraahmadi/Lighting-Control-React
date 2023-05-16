@@ -60,18 +60,20 @@ const SupportPage7 = (props) => {
           <span className="support-page7-text07">
             <span>Connect to Support Team</span>
           </span>
-          <span className="support-page7-text09">
+          <Link to="/live-chat-page-8" className="support-page7-text09">
             <span>Contact Live chat</span>
-          </span>
-          <div className="support-page7-arrowforwardios1">
-            <div className="support-page7-group2">
-              <img
-                alt="Vector1532"
-                src="/playground_assets/vector1532-owy.svg"
-                className="support-page7-vector3"
-              />
+          </Link>
+          <Link to="/live-chat-page-8" className="support-page7-navlink1">
+            <div className="support-page7-arrowforwardios1">
+              <div className="support-page7-group2">
+                <img
+                  alt="Vector1532"
+                  src="/playground_assets/vector1532-owy.svg"
+                  className="support-page7-vector3"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <span className="support-page7-text11">
             <span>
               <span> Send us an e-mail:</span>
@@ -93,18 +95,20 @@ const SupportPage7 = (props) => {
               />
             </div>
           </div>
-          <div className="support-page7-group4">
-            <img
-              alt="Vector1533"
-              src="/playground_assets/vector1533-lc2.svg"
-              className="support-page7-vector6"
-            />
-            <img
-              alt="Vector1533"
-              src="/playground_assets/vector1533-2gpl.svg"
-              className="support-page7-vector7"
-            />
-          </div>
+          <Link to="/live-chat-page-8" className="support-page7-navlink2">
+            <div className="support-page7-group4">
+              <img
+                alt="Vector1533"
+                src="/playground_assets/vector1533-lc2.svg"
+                className="support-page7-vector6"
+              />
+              <img
+                alt="Vector1533"
+                src="/playground_assets/vector1533-2gpl.svg"
+                className="support-page7-vector7"
+              />
+            </div>
+          </Link>
         </div>
       </div>
     </div>

@@ -65,18 +65,23 @@ const IAmAwayAutoCreated6 = (props) => {
               className="-am-away-auto-created6-rectangle4"
             />
           </Link>
-          <div className="-am-away-auto-created6-addtask1">
-            <div className="-am-away-auto-created6-group02">
-              <img
-                alt="Vector2827"
-                src="/playground_assets/vector2827-xp9q.svg"
-                className="-am-away-auto-created6-vector03"
-              />
+          <Link
+            to="/create-automation-5"
+            className="-am-away-auto-created6-navlink1"
+          >
+            <div className="-am-away-auto-created6-addtask1">
+              <div className="-am-away-auto-created6-group02">
+                <img
+                  alt="Vector2827"
+                  src="/playground_assets/vector2827-xp9q.svg"
+                  className="-am-away-auto-created6-vector03"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <Link
             to="/support-page-7"
-            className="-am-away-auto-created6-navlink1"
+            className="-am-away-auto-created6-navlink2"
           >
             <img
               alt="Rectangle152824"
@@ -157,15 +162,18 @@ const IAmAwayAutoCreated6 = (props) => {
           <span className="-am-away-auto-created6-text11">
             <span>I am away</span>
           </span>
-          <span className="-am-away-auto-created6-text13">
+          <Link
+            to="/create-automation-5"
+            className="-am-away-auto-created6-text13"
+          >
             <span>Create New Automation</span>
-          </span>
+          </Link>
           <span className="-am-away-auto-created6-text15">
             <span>What Are Automations?</span>
           </span>
-          <span className="-am-away-auto-created6-text17">
+          <Link to="/support-page-7" className="-am-away-auto-created6-text17">
             <span>Support</span>
-          </span>
+          </Link>
           <div className="-am-away-auto-created6-lock1">
             <div className="-am-away-auto-created6-group07">
               <img
