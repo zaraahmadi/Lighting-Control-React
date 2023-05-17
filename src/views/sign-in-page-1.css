@@ -4,6 +4,7 @@
   overflow: auto;
   min-height: 100vh;
   flex-direction: column;
+  background-color: rgba(110, 212, 234, 0.27);
 }
 .sign-in-page1-container1 {
   top: 21px;
@@ -37,38 +38,7 @@
   border-width: 1px;
   border-radius: 15px;
 }
-.sign-in-page1-menu1 {
-  top: 21px;
-  left: 21px;
-  width: 24px;
-  height: 24px;
-  display: flex;
-  overflow: hidden;
-  position: absolute;
-  align-self: center;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
 .sign-in-page1-group {
-  top: 6px;
-  left: 3px;
-  width: 18px;
-  height: 12px;
-  display: flex;
-  position: absolute;
-  align-self: center;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.sign-in-page1-vector {
-  top: 0px;
-  left: 0px;
-  width: 18px;
-  height: 12px;
-  position: absolute;
-  align-self: center;
-}
-.sign-in-page1-group1 {
   top: 91px;
   left: 131.30845642089844px;
   width: 30px;
@@ -79,7 +49,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.sign-in-page1-vector1 {
+.sign-in-page1-vector {
   top: 2.544342291203506px;
   left: 3.845121161672722px;
   width: 22px;
@@ -87,7 +57,7 @@
   position: absolute;
   align-self: center;
 }
-.sign-in-page1-vector2 {
+.sign-in-page1-vector1 {
   top: 0px;
   left: 0px;
   width: 30px;
@@ -288,9 +258,9 @@
     top: 44px;
     left: 100.01666259765625px;
   }
-  .sign-in-page1-menu1 {
-    top: 0px;
-    left: 21.01666259765625px;
+  .sign-in-page1-group {
+    top: 70px;
+    left: 131.3333282470703px;
   }
   .sign-in-page1-group1 {
     top: 62px;

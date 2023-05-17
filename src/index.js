@@ -11,6 +11,7 @@ import AutomationPage4 from './views/automation-page-4'
 import SignInPage1 from './views/sign-in-page-1'
 import SupportPage7 from './views/support-page-7'
 import LiveChatPage8 from './views/live-chat-page-8'
+import SignInDuplicate from './views/sign-in-duplicate'
 
 const App = () => {
   return (
@@ -32,6 +33,7 @@ const App = () => {
         <Route component={SignInPage1} exact path="/" />
         <Route component={SupportPage7} exact path="/support-page-7" />
         <Route component={LiveChatPage8} exact path="/live-chat-page-8" />
+        <Route component={SignInDuplicate} exact path="/sign-in-duplicate" />
       </div>
     </Router>
   )

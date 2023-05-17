@@ -19,28 +19,19 @@ const SignInPage1 = (props) => {
             className="sign-in-page1-rectangle1"
           />
         </div>
-        <div className="sign-in-page1-menu1">
-          <div className="sign-in-page1-group">
-            <img
-              alt="Vector740"
-              src="/playground_assets/vector740-b6ss.svg"
-              className="sign-in-page1-vector"
-            />
-          </div>
-        </div>
-        <div>
+        <div className="sign-in-page1-group">
           <img
             alt="Vector753"
             src="/playground_assets/vector753-1hwo.svg"
-            className="sign-in-page1-vector1"
+            className="sign-in-page1-vector"
           />
           <img
             alt="Vector754"
             src="/playground_assets/vector754-cwo.svg"
-            className="sign-in-page1-vector2"
+            className="sign-in-page1-vector1"
           />
         </div>
-        <div className="sign-in-page1-group1 sign-in-page1-group1">
+        <div className="sign-in-page1-group1">
           <div className="sign-in-page1-frame6">
             <span className="sign-in-page1-text">
               <span>

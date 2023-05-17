@@ -19,25 +19,16 @@ const MainPage3 = (props) => {
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/67afa5e5-3b4d-4b69-adf6-f18451289241?org_if_sml=13080"
             className="main-page3-rectangle1"
           />
-          <div className="main-page3-menu1">
-            <div className="main-page3-group">
-              <img
-                alt="Vector3444"
-                src="/playground_assets/vector3444-4q8s.svg"
-                className="main-page3-vector"
-              />
-            </div>
-          </div>
-          <div className="main-page3-group01">
+          <div className="main-page3-group">
             <img
               alt="Vector3444"
               src="/playground_assets/vector3444-11yi.svg"
-              className="main-page3-vector01"
+              className="main-page3-vector"
             />
             <img
               alt="Vector3444"
               src="/playground_assets/vector3444-8l1.svg"
-              className="main-page3-vector02"
+              className="main-page3-vector01"
             />
           </div>
           <span className="main-page3-text">
@@ -69,11 +60,11 @@ const MainPage3 = (props) => {
             className="main-page3-rectangle6"
           />
           <div className="main-page3-devices1">
-            <div className="main-page3-group02">
+            <div className="main-page3-group01">
               <img
                 alt="Vector3445"
                 src="/playground_assets/vector3445-unb7.svg"
-                className="main-page3-vector03"
+                className="main-page3-vector02"
               />
             </div>
           </div>
@@ -119,140 +110,138 @@ const MainPage3 = (props) => {
             <span>Create Group</span>
           </span>
           <div className="main-page3-armchair1">
-            <div className="main-page3-group03">
+            <div className="main-page3-group02">
               <img
                 alt="Vector3446"
                 src="/playground_assets/vector3446-6ehh.svg"
-                className="main-page3-vector04"
+                className="main-page3-vector03"
               />
               <img
                 alt="Vector3446"
                 src="/playground_assets/vector3446-e0v7.svg"
-                className="main-page3-vector05"
+                className="main-page3-vector04"
               />
             </div>
           </div>
           <div className="main-page3-grass1">
-            <div className="main-page3-group04">
+            <div className="main-page3-group03">
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-iobq.svg"
-                className="main-page3-vector06"
+                className="main-page3-vector05"
               />
             </div>
           </div>
           <div className="main-page3-statistics1">
-            <div className="main-page3-group05">
+            <div className="main-page3-group04">
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-k14k.svg"
-                className="main-page3-vector07"
+                className="main-page3-vector06"
               />
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-ecq9.svg"
-                className="main-page3-vector08"
+                className="main-page3-vector07"
               />
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-6f28.svg"
-                className="main-page3-vector09"
+                className="main-page3-vector08"
               />
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-9ba.svg"
-                className="main-page3-vector10"
+                className="main-page3-vector09"
               />
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-r86.svg"
-                className="main-page3-vector11"
+                className="main-page3-vector10"
               />
               <img
                 alt="Vector3447"
                 src="/playground_assets/vector3447-qv83.svg"
-                className="main-page3-vector12"
+                className="main-page3-vector11"
               />
               <img
                 alt="Vector3448"
                 src="/playground_assets/vector3448-11v.svg"
-                className="main-page3-vector13"
+                className="main-page3-vector12"
               />
               <img
                 alt="Vector3448"
                 src="/playground_assets/vector3448-nhnw.svg"
-                className="main-page3-vector14"
+                className="main-page3-vector13"
               />
             </div>
           </div>
           <div className="main-page3-cogwheel1">
-            <div className="main-page3-group06">
+            <div className="main-page3-group05">
               <img
                 alt="Vector3448"
                 src="/playground_assets/vector3448-ihp.svg"
-                className="main-page3-vector15"
+                className="main-page3-vector14"
               />
             </div>
           </div>
           <div className="main-page3-stairs3">
-            <div className="main-page3-group07">
+            <div className="main-page3-group06">
               <img
                 alt="Vector3448"
                 src="/playground_assets/vector3448-63si.svg"
-                className="main-page3-vector16"
+                className="main-page3-vector15"
               />
             </div>
           </div>
           <div className="main-page3-saveforlater1">
-            <div className="main-page3-group08">
+            <div className="main-page3-group07">
               <img
                 alt="Vector3449"
                 src="/playground_assets/vector3449-5wmk.svg"
-                className="main-page3-vector17"
+                className="main-page3-vector16"
               />
               <img
                 alt="Vector3449"
                 src="/playground_assets/vector3449-8fh.svg"
-                className="main-page3-vector18"
+                className="main-page3-vector17"
               />
             </div>
           </div>
           <div className="main-page3-devicehub1">
-            <div className="main-page3-group09">
+            <div className="main-page3-group08">
               <img
                 alt="Vector3449"
                 src="/playground_assets/vector3449-7sip.svg"
-                className="main-page3-vector19"
+                className="main-page3-vector18"
               />
             </div>
           </div>
           <Link to="/automation-page-4" className="main-page3-automation-text">
             <span>Automations</span>
           </Link>
-          <span className="main-page3-text12">
-            <span>Tips</span>
-          </span>
+          <span className="main-page3-text12">Support</span>
           <div className="main-page3-questionanswer1">
-            <div className="main-page3-group10">
+            <div className="main-page3-group09">
               <img
                 alt="Vector3449"
                 src="/playground_assets/vector3449-t2ni.svg"
-                className="main-page3-vector20"
+                className="main-page3-vector19"
               />
             </div>
           </div>
           <Link to="/automation-page-4" className="main-page3-navlink1">
             <div className="main-page3-cycle1">
-              <div className="main-page3-group11">
+              <div className="main-page3-group10">
                 <img
                   alt="Vector3450"
                   src="/playground_assets/vector3450-egi.svg"
-                  className="main-page3-vector21"
+                  className="main-page3-vector20"
                 />
                 <img
                   alt="Vector3450"
                   src="/playground_assets/vector3450-7z.svg"
-                  className="main-page3-vector22"
+                  className="main-page3-vector21"
                 />
               </div>
             </div>
@@ -262,22 +251,22 @@ const MainPage3 = (props) => {
             src="/playground_assets/rectangle133450-42e.svg"
             className="main-page3-rectangle13"
           />
-          <span className="main-page3-text14">
+          <span className="main-page3-text13">
             <span>Smart Light Saver</span>
           </span>
-          <span className="main-page3-text16">
+          <span className="main-page3-text15">
             <span>Garden</span>
           </span>
-          <span className="main-page3-text18">
+          <span className="main-page3-text17">
             <span>Devices</span>
           </span>
-          <span className="main-page3-text20">
+          <span className="main-page3-text19">
             <span>First Floor</span>
           </span>
-          <span className="main-page3-text22">
+          <span className="main-page3-text21">
             <span>Energy Monitoring</span>
           </span>
-          <span className="main-page3-text24">
+          <span className="main-page3-text23">
             <span>Settings</span>
           </span>
         </div>

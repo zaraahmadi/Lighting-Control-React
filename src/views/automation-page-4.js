@@ -22,25 +22,16 @@ const AutomationPage4 = (props) => {
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/916de6c9-a0b7-4c0d-9c51-5b0f7113dde1?org_if_sml=13080"
             className="automation-page4-rectangle1"
           />
-          <div className="automation-page4-menu1">
-            <div className="automation-page4-group">
-              <img
-                alt="Vector1541"
-                src="/playground_assets/vector1541-i6ap.svg"
-                className="automation-page4-vector"
-              />
-            </div>
-          </div>
-          <div className="automation-page4-group1">
+          <div className="automation-page4-group">
             <img
               alt="Vector1543"
               src="/playground_assets/vector1543-1fgm.svg"
-              className="automation-page4-vector1"
+              className="automation-page4-vector"
             />
             <img
               alt="Vector1544"
               src="/playground_assets/vector1544-p6ef.svg"
-              className="automation-page4-vector2"
+              className="automation-page4-vector1"
             />
           </div>
           <span className="automation-page4-text">
@@ -59,11 +50,11 @@ const AutomationPage4 = (props) => {
           </Link>
           <Link to="/create-automation-5" className="automation-page4-navlink1">
             <div className="automation-page4-addtask1">
-              <div className="automation-page4-group2">
+              <div className="automation-page4-group1">
                 <img
                   alt="Vector1549"
                   src="/playground_assets/vector1549-uf8.svg"
-                  className="automation-page4-vector3"
+                  className="automation-page4-vector2"
                 />
               </div>
             </div>
@@ -85,11 +76,11 @@ const AutomationPage4 = (props) => {
           </Link>
           <Link to="/support-page-7" className="automation-page4-navlink3">
             <div className="automation-page4-help1">
-              <div className="automation-page4-group3">
+              <div className="automation-page4-group2">
                 <img
                   alt="Vector1511"
                   src="/playground_assets/vector1511-l41a.svg"
-                  className="automation-page4-vector4"
+                  className="automation-page4-vector3"
                 />
               </div>
             </div>
@@ -102,16 +93,16 @@ const AutomationPage4 = (props) => {
             </span>
           </span>
           <div className="automation-page4-cycle1">
-            <div className="automation-page4-group4">
+            <div className="automation-page4-group3">
               <img
                 alt="Vector1553"
                 src="/playground_assets/vector1553-pxnm.svg"
-                className="automation-page4-vector5"
+                className="automation-page4-vector4"
               />
               <img
                 alt="Vector1554"
                 src="/playground_assets/vector1554-lptb.svg"
-                className="automation-page4-vector6"
+                className="automation-page4-vector5"
               />
             </div>
           </div>

@@ -36,25 +36,16 @@ const CreateAutomation5 = (props) => {
             className="create-automation5-rectangle18"
           />
         </Link>
-        <div className="create-automation5-menu1">
-          <div className="create-automation5-group">
-            <img
-              alt="Vector1567"
-              src="/playground_assets/vector1567-6ldi.svg"
-              className="create-automation5-vector"
-            />
-          </div>
-        </div>
-        <div className="create-automation5-group1">
+        <div className="create-automation5-group">
           <img
             alt="Vector1569"
             src="/playground_assets/vector1569-dgp.svg"
-            className="create-automation5-vector1"
+            className="create-automation5-vector"
           />
           <img
             alt="Vector1570"
             src="/playground_assets/vector1570-n54j.svg"
-            className="create-automation5-vector2"
+            className="create-automation5-vector1"
           />
         </div>
         <span className="create-automation5-text">
@@ -65,11 +56,11 @@ const CreateAutomation5 = (props) => {
           </span>
         </span>
         <div className="create-automation5-addtask1">
-          <div className="create-automation5-group2">
+          <div className="create-automation5-group1">
             <img
               alt="Vector1575"
               src="/playground_assets/vector1575-tux.svg"
-              className="create-automation5-vector3"
+              className="create-automation5-vector2"
             />
           </div>
         </div>
@@ -82,7 +73,10 @@ const CreateAutomation5 = (props) => {
           <span>Create New Automation</span>
         </span>
         <span className="create-automation5-text07">Cancel</span>
-        <Link to="/create-automation-5" className="create-automation5-text08">
+        <Link
+          to="/i-am-away-auto-created-6"
+          className="create-automation5-text08"
+        >
           Save
         </Link>
         <input
