@@ -1,0 +1,18 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.page-div {
+  top: 322px;
+  left: 247px;
+  position: absolute;
+}
+.page-div1 {
+  top: 356px;
+  left: 604px;
+  position: absolute;
+}

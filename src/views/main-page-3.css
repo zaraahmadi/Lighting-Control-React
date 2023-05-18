@@ -202,6 +202,9 @@
   border-radius: 44px;
   text-decoration: none;
 }
+.main-page3-navlink1 {
+  display: contents;
+}
 .main-page3-rectangle12 {
   right: 5px;
   width: 181px;
@@ -209,6 +212,7 @@
   height: 113px;
   position: absolute;
   border-radius: 44px;
+  text-decoration: none;
 }
 .main-page3-text07 {
   top: 186px;
@@ -533,6 +537,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.main-page3-navlink2 {
+  display: contents;
+}
 .main-page3-questionanswer1 {
   right: 71px;
   width: 34px;
@@ -543,6 +550,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .main-page3-group09 {
   top: 0.33333349227905273px;
@@ -561,7 +569,7 @@
   height: 33px;
   position: absolute;
 }
-.main-page3-navlink1 {
+.main-page3-navlink3 {
   display: contents;
 }
 .main-page3-cycle1 {

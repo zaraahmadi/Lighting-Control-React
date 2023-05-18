@@ -20,7 +20,7 @@ const IAmAwayAutoCreated6 = (props) => {
           <Link to="/main-page-3" className="-am-away-auto-created6-navlink">
             <img
               alt="Rectangle12821"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/c5dd92a3-c4fd-403d-ae21-e14beb770c6d?org_if_sml=13080"
+              src="/playground_assets/rectangle12821-chxk-200h.png"
               className="-am-away-auto-created6-rectangle1"
             />
           </Link>
@@ -47,7 +47,7 @@ const IAmAwayAutoCreated6 = (props) => {
           </Link>
           <img
             alt="Rectangle32822"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/ff7e75d6-6775-4de5-aac2-888c71bdd689?org_if_sml=1423"
+            src="/playground_assets/rectangle32822-9b9r-200h.png"
             className="-am-away-auto-created6-rectangle3"
           />
           <Link
@@ -56,7 +56,7 @@ const IAmAwayAutoCreated6 = (props) => {
           >
             <img
               alt="Rectangle42822"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/441727a8-afa1-4e6e-b980-2db065eb1ded?org_if_sml=1423"
+              src="/playground_assets/rectangle42822-sgij-200h.png"
               className="-am-away-auto-created6-rectangle4"
             />
           </Link>
@@ -80,7 +80,7 @@ const IAmAwayAutoCreated6 = (props) => {
           >
             <img
               alt="Rectangle152824"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/2f24f0d0-db13-4a94-ac38-652d26c366fb?org_if_sml=1423"
+              src="/playground_assets/rectangle152824-edf-200h.png"
               className="-am-away-auto-created6-rectangle15"
             />
           </Link>
@@ -95,7 +95,7 @@ const IAmAwayAutoCreated6 = (props) => {
           </div>
           <img
             alt="Rectangle142822"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/972b8171-f70a-4cef-8b3e-4eaa3222720f?org_if_sml=1423"
+            src="/playground_assets/rectangle142822-wp2u-200h.png"
             className="-am-away-auto-created6-rectangle14"
           />
           <div className="-am-away-auto-created6-cycle2">

@@ -58,27 +58,35 @@ const LiveChatPage8 = (props) => {
           <span className="live-chat-page8-text13">
             <span>Support Chat</span>
           </span>
-          <span className="live-chat-page8-text15">
+          <a
+            href="mailto:infor@homelightsaver.uk?subject=Support"
+            className="live-chat-page8-text15"
+          >
             <span>
               <span> Send us an e-mail:</span>
               <br></br>
               <span> info@myhomelightsaver.uk</span>
             </span>
-          </span>
-          <div className="live-chat-page8-letter1">
-            <div className="live-chat-page8-group1">
-              <img
-                alt="Vector1535"
-                src="/playground_assets/vector1535-asmu.svg"
-                className="live-chat-page8-vector02"
-              />
-              <img
-                alt="Vector1535"
-                src="/playground_assets/vector1535-a00e.svg"
-                className="live-chat-page8-vector03"
-              />
+          </a>
+          <a
+            href="mailto:infor@myhomesaver.uk?subject=support"
+            className="live-chat-page8-link"
+          >
+            <div className="live-chat-page8-letter1">
+              <div className="live-chat-page8-group1">
+                <img
+                  alt="Vector1535"
+                  src="/playground_assets/vector1535-asmu.svg"
+                  className="live-chat-page8-vector02"
+                />
+                <img
+                  alt="Vector1535"
+                  src="/playground_assets/vector1535-a00e.svg"
+                  className="live-chat-page8-vector03"
+                />
+              </div>
             </div>
-          </div>
+          </a>
           <div className="live-chat-page8-profile1">
             <div className="live-chat-page8-group2">
               <img
@@ -199,7 +207,7 @@ const LiveChatPage8 = (props) => {
           href="https://twitter.com/"
           target="_blank"
           rel="noreferrer noopener"
-          className="live-chat-page8-link"
+          className="live-chat-page8-link1"
         >
           <svg
             viewBox="0 0 950.8571428571428 1024"
@@ -212,7 +220,7 @@ const LiveChatPage8 = (props) => {
           href="https://www.instagram.com"
           target="_blank"
           rel="noreferrer noopener"
-          className="live-chat-page8-link1"
+          className="live-chat-page8-link2"
         >
           <svg
             viewBox="0 0 877.7142857142857 1024"
@@ -225,7 +233,7 @@ const LiveChatPage8 = (props) => {
           href="https://www.facebook.com"
           target="_blank"
           rel="noreferrer noopener"
-          className="live-chat-page8-link2"
+          className="live-chat-page8-link3"
         >
           <svg
             viewBox="0 0 602.2582857142856 1024"
@@ -244,7 +252,7 @@ const LiveChatPage8 = (props) => {
           href="https://www.youtube.com/"
           target="_blank"
           rel="noreferrer noopener"
-          className="live-chat-page8-link3"
+          className="live-chat-page8-link4"
         >
           <svg viewBox="0 0 1024 1024" className="live-chat-page8-icon08">
             <path d="M1013.8 307.2c0 0-10-70.6-40.8-101.6-39-40.8-82.6-41-102.6-43.4-143.2-10.4-358.2-10.4-358.2-10.4h-0.4c0 0-215 0-358.2 10.4-20 2.4-63.6 2.6-102.6 43.4-30.8 31-40.6 101.6-40.6 101.6s-10.2 82.8-10.2 165.8v77.6c0 82.8 10.2 165.8 10.2 165.8s10 70.6 40.6 101.6c39 40.8 90.2 39.4 113 43.8 82 7.8 348.2 10.2 348.2 10.2s215.2-0.4 358.4-10.6c20-2.4 63.6-2.6 102.6-43.4 30.8-31 40.8-101.6 40.8-101.6s10.2-82.8 10.2-165.8v-77.6c-0.2-82.8-10.4-165.8-10.4-165.8zM406.2 644.8v-287.8l276.6 144.4-276.6 143.4z"></path>

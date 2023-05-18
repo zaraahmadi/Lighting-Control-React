@@ -98,11 +98,13 @@ const MainPage3 = (props) => {
               className="main-page3-automations"
             />
           </Link>
-          <img
-            alt="Rectangle123446"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6f916a75-2be0-4f13-b501-e296ccb900c6?org_if_sml=11826"
-            className="main-page3-rectangle12"
-          />
+          <Link to="/support-page-7" className="main-page3-navlink1">
+            <img
+              alt="Rectangle123446"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6f916a75-2be0-4f13-b501-e296ccb900c6?org_if_sml=11826"
+              className="main-page3-rectangle12"
+            />
+          </Link>
           <span className="main-page3-text07">
             <span>Ground Floor</span>
           </span>
@@ -220,17 +222,21 @@ const MainPage3 = (props) => {
           <Link to="/automation-page-4" className="main-page3-automation-text">
             <span>Automations</span>
           </Link>
-          <span className="main-page3-text12">Support</span>
-          <div className="main-page3-questionanswer1">
-            <div className="main-page3-group09">
-              <img
-                alt="Vector3449"
-                src="/playground_assets/vector3449-t2ni.svg"
-                className="main-page3-vector19"
-              />
+          <Link to="/support-page-7" className="main-page3-text12">
+            Support
+          </Link>
+          <Link to="/support-page-7" className="main-page3-navlink2">
+            <div className="main-page3-questionanswer1">
+              <div className="main-page3-group09">
+                <img
+                  alt="Vector3449"
+                  src="/playground_assets/vector3449-t2ni.svg"
+                  className="main-page3-vector19"
+                />
+              </div>
             </div>
-          </div>
-          <Link to="/automation-page-4" className="main-page3-navlink1">
+          </Link>
+          <Link to="/automation-page-4" className="main-page3-navlink3">
             <div className="main-page3-cycle1">
               <div className="main-page3-group10">
                 <img
