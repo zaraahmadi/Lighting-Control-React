@@ -9,11 +9,9 @@ import IAmAwayAutoCreated6 from './views/i-am-away-auto-created-6'
 import CreateAutomation5 from './views/create-automation-5'
 import AutomationPage4 from './views/automation-page-4'
 import SignInPage1 from './views/sign-in-page-1'
-import SignInDuplicate from './views/sign-in-duplicate'
 import SupportPage7 from './views/support-page-7'
 import LiveChatPage8 from './views/live-chat-page-8'
-import Page from './views/page'
-import Page1 from './views/page1'
+import ManageCreatedAutomation9 from './views/manage-created-automation-9'
 
 const App = () => {
   return (
@@ -33,11 +31,13 @@ const App = () => {
         />
         <Route component={AutomationPage4} exact path="/automation-page-4" />
         <Route component={SignInPage1} exact path="/" />
-        <Route component={SignInDuplicate} exact path="/sign-in-duplicate" />
         <Route component={SupportPage7} exact path="/support-page-7" />
         <Route component={LiveChatPage8} exact path="/live-chat-page-8" />
-        <Route component={Page} exact path="/page" />
-        <Route component={Page1} exact path="/page1" />
+        <Route
+          component={ManageCreatedAutomation9}
+          exact
+          path="/manage-created-automation-9"
+        />
       </div>
     </Router>
   )

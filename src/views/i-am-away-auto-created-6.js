@@ -45,14 +45,19 @@ const IAmAwayAutoCreated6 = (props) => {
               <span>Light Saver</span>
             </span>
           </Link>
-          <img
-            alt="Rectangle32822"
-            src="/playground_assets/rectangle32822-9b9r-200h.png"
-            className="-am-away-auto-created6-rectangle3"
-          />
+          <Link
+            to="/manage-created-automation-9"
+            className="-am-away-auto-created6-navlink2"
+          >
+            <img
+              alt="Rectangle32822"
+              src="/playground_assets/rectangle32822-9b9r-200h.png"
+              className="-am-away-auto-created6-rectangle3"
+            />
+          </Link>
           <Link
             to="/create-automation-5"
-            className="-am-away-auto-created6-navlink2"
+            className="-am-away-auto-created6-navlink3"
           >
             <img
               alt="Rectangle42822"
@@ -62,7 +67,7 @@ const IAmAwayAutoCreated6 = (props) => {
           </Link>
           <Link
             to="/create-automation-5"
-            className="-am-away-auto-created6-navlink3"
+            className="-am-away-auto-created6-navlink4"
           >
             <div className="-am-away-auto-created6-addtask1">
               <div className="-am-away-auto-created6-group1">
@@ -76,7 +81,7 @@ const IAmAwayAutoCreated6 = (props) => {
           </Link>
           <Link
             to="/support-page-7"
-            className="-am-away-auto-created6-navlink4"
+            className="-am-away-auto-created6-navlink5"
           >
             <img
               alt="Rectangle152824"
@@ -112,20 +117,25 @@ const IAmAwayAutoCreated6 = (props) => {
               />
             </div>
           </div>
-          <div className="-am-away-auto-created6-cycle3">
-            <div className="-am-away-auto-created6-group4">
-              <img
-                alt="Vector3654"
-                src="/playground_assets/vector3654-et7t.svg"
-                className="-am-away-auto-created6-vector06"
-              />
-              <img
-                alt="Vector3654"
-                src="/playground_assets/vector3654-ufkv.svg"
-                className="-am-away-auto-created6-vector07"
-              />
+          <Link
+            to="/manage-created-automation-9"
+            className="-am-away-auto-created6-navlink6"
+          >
+            <div className="-am-away-auto-created6-cycle3">
+              <div className="-am-away-auto-created6-group4">
+                <img
+                  alt="Vector3654"
+                  src="/playground_assets/vector3654-et7t.svg"
+                  className="-am-away-auto-created6-vector06"
+                />
+                <img
+                  alt="Vector3654"
+                  src="/playground_assets/vector3654-ufkv.svg"
+                  className="-am-away-auto-created6-vector07"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <div className="-am-away-auto-created6-help1"></div>
           <span className="-am-away-auto-created6-text05">
             <span></span>
@@ -155,20 +165,25 @@ const IAmAwayAutoCreated6 = (props) => {
           <Link to="/support-page-7" className="-am-away-auto-created6-text17">
             <span>Support</span>
           </Link>
-          <div className="-am-away-auto-created6-lock1">
-            <div className="-am-away-auto-created6-group5">
-              <img
-                alt="Vector2826"
-                src="/playground_assets/vector2826-od3r.svg"
-                className="-am-away-auto-created6-vector08"
-              />
-              <img
-                alt="Vector2826"
-                src="/playground_assets/vector2826-wdg.svg"
-                className="-am-away-auto-created6-vector09"
-              />
+          <Link
+            to="/manage-created-automation-9"
+            className="-am-away-auto-created6-navlink7"
+          >
+            <div className="-am-away-auto-created6-lock1">
+              <div className="-am-away-auto-created6-group5">
+                <img
+                  alt="Vector2826"
+                  src="/playground_assets/vector2826-od3r.svg"
+                  className="-am-away-auto-created6-vector08"
+                />
+                <img
+                  alt="Vector2826"
+                  src="/playground_assets/vector2826-wdg.svg"
+                  className="-am-away-auto-created6-vector09"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <div className="-am-away-auto-created6-lightbulboutline1">
             <div className="-am-away-auto-created6-group6">
               <img
