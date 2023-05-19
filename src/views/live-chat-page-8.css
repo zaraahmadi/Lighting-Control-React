@@ -445,8 +445,8 @@
 .live-chat-page8-social-bar {
   left: 0px;
   right: 0px;
-  width: 100%;
-  bottom: 0px;
+  width: 342px;
+  bottom: -45px;
   margin: auto;
   display: flex;
   padding: var(--dl-space-space-threeunits);

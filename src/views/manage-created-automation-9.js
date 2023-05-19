@@ -20,41 +20,41 @@ const ManageCreatedAutomation9 = (props) => {
         <div className="manage-created-automation9-container1">
           <div className="manage-created-automation9-container2">
             <img
-              src="/playground_assets/rectangle111011-eeab-200h.png"
               alt="Rectangle111011"
+              src="/playground_assets/rectangle111011-eeab-200h.png"
               className="manage-created-automation9-rectangle11"
             />
             <img
-              src="/playground_assets/rectangle311011-4d0m-200h.png"
               alt="Rectangle311011"
+              src="/playground_assets/rectangle311011-4d0m-200h.png"
               className="manage-created-automation9-rectangle31"
             />
             <span className="manage-created-automation9-text">
               <span>Monday</span>
             </span>
             <img
-              src="/playground_assets/rectangle321012-yt2c-200h.png"
               alt="Rectangle321012"
+              src="/playground_assets/rectangle321012-yt2c-200h.png"
               className="manage-created-automation9-rectangle32"
             />
             <img
-              src="/playground_assets/rectangle341012-32yg-200h.png"
               alt="Rectangle341012"
+              src="/playground_assets/rectangle341012-32yg-200h.png"
               className="manage-created-automation9-rectangle34"
             />
             <img
-              src="/playground_assets/rectangle361012-4uwg-200h.png"
               alt="Rectangle361012"
+              src="/playground_assets/rectangle361012-4uwg-200h.png"
               className="manage-created-automation9-rectangle36"
             />
             <img
-              src="/playground_assets/rectangle351013-6r2q-200h.png"
               alt="Rectangle351013"
+              src="/playground_assets/rectangle351013-6r2q-200h.png"
               className="manage-created-automation9-rectangle35"
             />
             <img
-              src="/playground_assets/rectangle371013-vuke-200h.png"
               alt="Rectangle371013"
+              src="/playground_assets/rectangle371013-vuke-200h.png"
               className="manage-created-automation9-rectangle37"
             />
             <span className="manage-created-automation9-text02">

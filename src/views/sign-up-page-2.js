@@ -73,8 +73,9 @@ const SignUpPage2 = (props) => {
           placeholder="Confirm Password"
           className="sign-up-page2-input2 input"
         />
-        <Link to="/" className="sign-up-page2-navlink2">
-          Already have an account?Sign in
+        <Link to="/" className="sign-up-page2-text7">
+                                                                                 
+          Already have an account?Sign in here
         </Link>
       </div>
       <div className="sign-up-page2-social-bar">

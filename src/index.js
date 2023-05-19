@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import './style.css'
+import ManageCreatedAutomation9 from './views/manage-created-automation-9'
 import MainPage3 from './views/main-page-3'
 import SignUpPage2 from './views/sign-up-page-2'
 import IAmAwayAutoCreated6 from './views/i-am-away-auto-created-6'
@@ -11,12 +12,16 @@ import AutomationPage4 from './views/automation-page-4'
 import SignInPage1 from './views/sign-in-page-1'
 import SupportPage7 from './views/support-page-7'
 import LiveChatPage8 from './views/live-chat-page-8'
-import ManageCreatedAutomation9 from './views/manage-created-automation-9'
 
 const App = () => {
   return (
     <Router>
       <div>
+        <Route
+          component={ManageCreatedAutomation9}
+          exact
+          path="/manage-created-automation-9"
+        />
         <Route component={MainPage3} exact path="/main-page-3" />
         <Route component={SignUpPage2} exact path="/sign-up-page-2" />
         <Route
@@ -33,11 +38,6 @@ const App = () => {
         <Route component={SignInPage1} exact path="/" />
         <Route component={SupportPage7} exact path="/support-page-7" />
         <Route component={LiveChatPage8} exact path="/live-chat-page-8" />
-        <Route
-          component={ManageCreatedAutomation9}
-          exact
-          path="/manage-created-automation-9"
-        />
       </div>
     </Router>
   )
