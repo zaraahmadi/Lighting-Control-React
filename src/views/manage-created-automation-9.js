@@ -174,7 +174,7 @@ const ManageCreatedAutomation9 = (props) => {
                   className="manage-created-automation9-rectangle13"
                 />
                 <span className="manage-created-automation9-text24">
-                  Manage I am away
+                  Manage Automation
                 </span>
               </div>
             </div>

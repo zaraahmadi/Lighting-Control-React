@@ -38,36 +38,66 @@ const MainPage3 = (props) => {
               <span>Light Saver</span>
             </span>
           </span>
-          <img
-            alt="Rectangle33444"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/b572d110-9750-4d99-b56a-c311f201fc6e?org_if_sml=1423"
-            className="main-page3-rectangle3"
-          />
-          <img
-            alt="Rectangle53444"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/bd177b3b-f8da-4700-8d04-e242d61fd150?org_if_sml=1423"
-            className="main-page3-rectangle5"
-          />
-          <img
-            alt="Rectangle43445"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6eb8b872-6853-493b-b8fc-9dfb0800d7fe?org_if_sml=1423"
-            className="main-page3-rectangle4"
-          />
-          <div className="main-page3-stairs2"></div>
-          <img
-            alt="Rectangle63445"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/d87bdcd7-fb1d-4be3-b6cc-7f84ae68805f?org_if_sml=1423"
-            className="main-page3-rectangle6"
-          />
-          <div className="main-page3-devices1">
-            <div className="main-page3-group01">
-              <img
-                alt="Vector3445"
-                src="/playground_assets/vector3445-unb7.svg"
-                className="main-page3-vector02"
-              />
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink"
+          >
+            <img
+              alt="Rectangle33444"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/b572d110-9750-4d99-b56a-c311f201fc6e?org_if_sml=1423"
+              className="main-page3-rectangle3"
+            />
+          </Link>
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink01"
+          >
+            <img
+              alt="Rectangle53444"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/bd177b3b-f8da-4700-8d04-e242d61fd150?org_if_sml=1423"
+              className="main-page3-rectangle5"
+            />
+          </Link>
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink02"
+          >
+            <img
+              alt="Rectangle43445"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6eb8b872-6853-493b-b8fc-9dfb0800d7fe?org_if_sml=1423"
+              className="main-page3-rectangle4"
+            />
+          </Link>
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink03"
+          >
+            <div className="main-page3-stairs2"></div>
+          </Link>
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink04"
+          >
+            <img
+              alt="Rectangle63445"
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/d87bdcd7-fb1d-4be3-b6cc-7f84ae68805f?org_if_sml=1423"
+              className="main-page3-rectangle6"
+            />
+          </Link>
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink05"
+          >
+            <div className="main-page3-devices1">
+              <div className="main-page3-group01">
+                <img
+                  alt="Vector3445"
+                  src="/playground_assets/vector3445-unb7.svg"
+                  className="main-page3-vector02"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <img
             alt="Rectangle83445"
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/2c095be9-fa83-45e7-93e8-c6dfb4412609?org_if_sml=1423"
@@ -91,40 +121,45 @@ const MainPage3 = (props) => {
             src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/eb5df2b7-12d9-4448-8e6b-5e1efe2aa3e4?org_if_sml=1423"
             className="main-page3-rectangle9"
           />
-          <Link to="/automation-page-4" className="main-page3-navlink">
+          <Link to="/automation-page-4" className="main-page3-navlink06">
             <img
               alt="Rectangle113446"
               src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/631aa735-cc9f-411b-9618-9d7591748d1b?org_if_sml=11826"
               className="main-page3-automations"
             />
           </Link>
-          <Link to="/support-page-7" className="main-page3-navlink1">
+          <Link to="/support-page-7" className="main-page3-navlink07">
             <img
               alt="Rectangle123446"
               src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/68c41574-8329-4cf6-81f2-600ca2e73425/6f916a75-2be0-4f13-b501-e296ccb900c6?org_if_sml=11826"
               className="main-page3-rectangle12"
             />
           </Link>
-          <span className="main-page3-text07">
+          <Link to="/manage-created-automation-9" className="main-page3-text07">
             <span>Ground Floor</span>
-          </span>
+          </Link>
           <span className="main-page3-text09">
             <span>Create Group</span>
           </span>
-          <div className="main-page3-armchair1">
-            <div className="main-page3-group02">
-              <img
-                alt="Vector3446"
-                src="/playground_assets/vector3446-6ehh.svg"
-                className="main-page3-vector03"
-              />
-              <img
-                alt="Vector3446"
-                src="/playground_assets/vector3446-e0v7.svg"
-                className="main-page3-vector04"
-              />
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink08"
+          >
+            <div className="main-page3-armchair1">
+              <div className="main-page3-group02">
+                <img
+                  alt="Vector3446"
+                  src="/playground_assets/vector3446-6ehh.svg"
+                  className="main-page3-vector03"
+                />
+                <img
+                  alt="Vector3446"
+                  src="/playground_assets/vector3446-e0v7.svg"
+                  className="main-page3-vector04"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <div className="main-page3-grass1">
             <div className="main-page3-group03">
               <img
@@ -187,15 +222,20 @@ const MainPage3 = (props) => {
               />
             </div>
           </div>
-          <div className="main-page3-stairs3">
-            <div className="main-page3-group06">
-              <img
-                alt="Vector3448"
-                src="/playground_assets/vector3448-63si.svg"
-                className="main-page3-vector15"
-              />
+          <Link
+            to="/manage-created-automation-9"
+            className="main-page3-navlink09"
+          >
+            <div className="main-page3-stairs3">
+              <div className="main-page3-group06">
+                <img
+                  alt="Vector3448"
+                  src="/playground_assets/vector3448-63si.svg"
+                  className="main-page3-vector15"
+                />
+              </div>
             </div>
-          </div>
+          </Link>
           <div className="main-page3-saveforlater1">
             <div className="main-page3-group07">
               <img
@@ -225,7 +265,7 @@ const MainPage3 = (props) => {
           <Link to="/support-page-7" className="main-page3-text12">
             Support
           </Link>
-          <Link to="/support-page-7" className="main-page3-navlink2">
+          <Link to="/support-page-7" className="main-page3-navlink10">
             <div className="main-page3-questionanswer1">
               <div className="main-page3-group09">
                 <img
@@ -236,7 +276,7 @@ const MainPage3 = (props) => {
               </div>
             </div>
           </Link>
-          <Link to="/automation-page-4" className="main-page3-navlink3">
+          <Link to="/automation-page-4" className="main-page3-navlink11">
             <div className="main-page3-cycle1">
               <div className="main-page3-group10">
                 <img

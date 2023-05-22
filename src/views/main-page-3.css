@@ -79,12 +79,19 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.main-page3-navlink {
+  display: contents;
+}
 .main-page3-rectangle3 {
   top: 163px;
   left: 0px;
   width: 181px;
   height: 126px;
   position: absolute;
+  text-decoration: none;
+}
+.main-page3-navlink01 {
+  display: contents;
 }
 .main-page3-rectangle5 {
   top: 301px;
@@ -92,6 +99,10 @@
   width: 181px;
   height: 126px;
   position: absolute;
+  text-decoration: none;
+}
+.main-page3-navlink02 {
+  display: contents;
 }
 .main-page3-rectangle4 {
   top: 163px;
@@ -99,6 +110,10 @@
   width: 181px;
   height: 126px;
   position: absolute;
+  text-decoration: none;
+}
+.main-page3-navlink03 {
+  display: contents;
 }
 .main-page3-stairs2 {
   top: 235px;
@@ -110,6 +125,10 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
+}
+.main-page3-navlink04 {
+  display: contents;
 }
 .main-page3-rectangle6 {
   top: 305px;
@@ -117,6 +136,10 @@
   width: 181px;
   height: 126px;
   position: absolute;
+  text-decoration: none;
+}
+.main-page3-navlink05 {
+  display: contents;
 }
 .main-page3-devices1 {
   top: 362px;
@@ -128,6 +151,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .main-page3-group01 {
   top: 0.6666665077209473px;
@@ -190,7 +214,7 @@
   height: 126px;
   position: absolute;
 }
-.main-page3-navlink {
+.main-page3-navlink06 {
   display: contents;
 }
 .main-page3-automations {
@@ -202,7 +226,7 @@
   border-radius: 44px;
   text-decoration: none;
 }
-.main-page3-navlink1 {
+.main-page3-navlink07 {
   display: contents;
 }
 .main-page3-rectangle12 {
@@ -246,6 +270,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.main-page3-navlink08 {
+  display: contents;
+}
 .main-page3-armchair1 {
   top: 225px;
   left: 74px;
@@ -256,6 +283,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .main-page3-group02 {
   top: 0px;
@@ -414,6 +442,9 @@
   height: 40px;
   position: absolute;
 }
+.main-page3-navlink09 {
+  display: contents;
+}
 .main-page3-stairs3 {
   top: 227px;
   right: 88px;
@@ -424,6 +455,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .main-page3-group06 {
   top: 0px;
@@ -537,7 +569,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.main-page3-navlink2 {
+.main-page3-navlink10 {
   display: contents;
 }
 .main-page3-questionanswer1 {
@@ -569,7 +601,7 @@
   height: 33px;
   position: absolute;
 }
-.main-page3-navlink3 {
+.main-page3-navlink11 {
   display: contents;
 }
 .main-page3-cycle1 {
